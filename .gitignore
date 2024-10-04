@@ -1,4 +1,0 @@
-# Ignore .ipynb files except README.ipynb
-*.ipynb
-!README.ipynb
-
